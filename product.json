@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "nom": "Laptop Ultra",
+        "description": "Un ordinateur portable ultra-fin avec un processeur rapide.",
+        "prix": 1200,
+        "image": "laptop_ultra.jpg"
+    },
+    {
+        "id": 2,
+        "nom": "Smartphone Pro",
+        "description": "Un smartphone avec une caméra haute résolution et une grande autonomie.",
+        "prix": 900,
+        "image": "smartphone_pro.jpg"
+    },
+    {
+        "id": 3,
+        "nom": "Casque Bluetooth",
+        "description": "Casque sans fil avec réduction de bruit active.",
+        "prix": 150,
+        "image": "casque_bluetooth.jpg"
+    },
+    {
+        "id": 4,
+        "nom": "Montre Connectée",
+        "description": "Montre intelligente avec suivi de la santé et des notifications.",
+        "prix": 250,
+        "image": "montre_connectee.jpg"
+    },
+    {
+        "id": 5,
+        "nom": "Tablette Graphique",
+        "description": "Tablette pour dessiner et retoucher des images avec précision.",
+        "prix": 300,
+        "image": "tablette_graphique.jpg"
+    },
+    {
+        "id": 6,
+        "nom": "Télévision 4K",
+        "description": "Téléviseur 4K Ultra HD avec écran de 55 pouces.",
+        "prix": 700,
+        "image": "television_4k.jpg"
+    },
+    {
+        "id": 7,
+        "nom": "Appareil Photo Reflex",
+        "description": "Appareil photo reflex avec un objectif 18-55mm.",
+        "prix": 800,
+        "image": "appareil_photo_reflex.jpg"
+    },
+    {
+        "id": 8,
+        "nom": "Imprimante Laser",
+        "description": "Imprimante laser monochrome rapide et efficace.",
+        "prix": 200,
+        "image": "imprimante_laser.jpg"
+    },
+    {
+        "id": 9,
+        "nom": "Clavier Mécanique",
+        "description": "Clavier mécanique avec éclairage RGB personnalisable.",
+        "prix": 100,
+        "image": "clavier_mecanique.jpg"
+    },
+    {
+        "id": 10,
+        "nom": "Souris Gamer",
+        "description": "Souris de jeu haute précision avec boutons programmables.",
+        "prix": 60,
+        "image": "souris_gamer.jpg"
+    },
+    {
+        "id": 11,
+        "nom": "Enceinte Portable",
+        "description": "Enceinte Bluetooth portable avec un son puissant.",
+        "prix": 120,
+        "image": "enceinte_portable.jpg"
+    },
+    {
+        "id": 12,
+        "nom": "Disque Dur Externe",
+        "description": "Disque dur externe de 2 To pour sauvegarder vos données.",
+        "prix": 80,
+        "image": "disque_dur_externe.jpg"
+    },
+    {
+        "id": 13,
+        "nom": "Routeur WiFi",
+        "description": "Routeur WiFi double bande pour une connexion rapide.",
+        "prix": 90,
+        "image": "routeur_wifi.jpg"
+    },
+    {
+        "id": 14,
+        "nom": "Lampe de Bureau LED",
+        "description": "Lampe de bureau LED avec luminosité réglable.",
+        "prix": 40,
+        "image": "lampe_de_bureau_led.jpg"
+    },
+    {
+        "id": 15,
+        "nom": "Microphone USB",
+        "description": "Microphone USB pour enregistrements de haute qualité.",
+        "prix": 70,
+        "image": "microphone_usb.jpg"
+    },
+    {
+        "id": 16,
+        "nom": "Caméra de Sécurité",
+        "description": "Caméra de sécurité avec vision nocturne et détection de mouvement.",
+        "prix": 150,
+        "image": "camera_securite.jpg"
+    },
+    {
+        "id": 17,
+        "nom": "Station Météo",
+        "description": "Station météo connectée avec capteurs intérieurs et extérieurs.",
+        "prix": 130,
+        "image": "station_meteo.jpg"
+    },
+    {
+        "id": 18,
+        "nom": "Projecteur LED",
+        "description": "Projecteur LED portable avec résolution Full HD.",
+        "prix": 350,
+        "image": "projecteur_led.jpg"
+    },
+    {
+        "id": 19,
+        "nom": "Climatisation Portable",
+        "description": "Climatiseur portable compact et efficace pour une pièce de taille moyenne.",
+        "prix": 400,
+        "image": "climatisation_portable.jpg"
+    },
+    {
+        "id": 20,
+        "nom": "Réveil Intelligent",
+        "description": "Réveil intelligent avec simulation de lever de soleil.",
+        "prix": 80,
+        "image": "reveil_intelligent.jpg"
+    }
+]
